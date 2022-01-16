@@ -1,0 +1,15 @@
+<svg id="del" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame_78_Background_Mask_" data-name="Frame 78 (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Frame_78_Background_Mask_2" data-name="Frame 78 (Background/Mask)" width="24" height="24" fill="none"/>
+  <g id="Frame_78" data-name="Frame 78" clip-path="url(#clip-path)">
+    <g id="Group_722" data-name="Group 722" transform="translate(2 1)">
+      <path id="Vector_48" data-name="Vector 48" d="M0,0H20" transform="translate(0 4)" fill="none" stroke="#f1440c" stroke-width="2" stroke-dasharray="0 0"/>
+      <path id="Rectangle_318" data-name="Rectangle 318" d="M0,0V13a5,5,0,0,0,5,5h6a5,5,0,0,0,5-5V0" transform="translate(2 4)" fill="none" stroke="#f1440c" stroke-width="2" stroke-dasharray="0 0"/>
+      <path id="Rectangle_319" data-name="Rectangle 319" d="M0,2V1A1,1,0,0,1,1,0H5A1,1,0,0,1,6,1V2" transform="translate(7)" fill="none" stroke="#f1440c" stroke-width="2" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="252" viewBox="0 0 202 252">
+  <defs>
+    <filter id="Mask" x="0" y="0" width="202" height="252" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask)">
+    <rect id="Mask-2" data-name="Mask" width="160" height="210" rx="15" transform="translate(21 19)" fill="#fff"/>
+  </g>
+</svg>

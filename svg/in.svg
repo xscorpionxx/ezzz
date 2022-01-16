@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.02" height="39.04" viewBox="0 0 39.02 39.04">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.25" y1="0.5" x2="1.25" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c6fb"/>
+      <stop offset="1" stop-color="#005bea"/>
+    </linearGradient>
+  </defs>
+  <g id="in" transform="translate(-1576.31 -671.98)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="19.51" cy="19.52" rx="19.51" ry="19.52" transform="translate(1576.31 671.98)" fill="url(#linear-gradient)"/>
+    <path id="Forma_1" data-name="Forma 1" d="M1607,694.13v7.49h-4.338v-6.989c0-1.756-.627-2.954-2.2-2.954a2.374,2.374,0,0,0-2.226,1.589,2.975,2.975,0,0,0-.144,1.059v7.3h-4.34s.059-11.837,0-13.063h4.339v1.852c-.009.014-.02.029-.028.042h.028v-.042A4.308,4.308,0,0,1,1602,688.25C1604.86,688.25,1607,690.117,1607,694.13Zm-17.784-11.87a2.263,2.263,0,1,0-.057,4.515h.029a2.264,2.264,0,1,0,.028-4.515Zm-2.2,19.36h4.338V688.557h-4.338Z" fill="#fff"/>
+  </g>
+</svg>

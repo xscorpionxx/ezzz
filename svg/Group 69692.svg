@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="301" height="23" viewBox="0 0 301 23">
+  <g id="Group_69692" data-name="Group 69692" transform="translate(-4 -61)">
+    <text id="Sub_total" data-name="Sub total" transform="translate(226 64)" fill="#0d0702" font-size="12" font-family="Tajawal-Regular, Tajawal" opacity="0.7"><tspan x="12.856" y="12">قسيمة خصم</tspan></text>
+    <text id="_760" data-name="$760" transform="translate(64 61)" fill="#0d0702" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="0" y="15">-</tspan></text>
+    <g id="Group_69695" data-name="Group 69695" transform="translate(0 61)">
+      <text id="_00" data-name="$00" transform="translate(45)" fill="#0d0702" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="0" y="15">40</tspan></text>
+      <text id="_00-2" data-name="$00" transform="translate(4)" fill="#0d0702" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="10.452" y="15">ريال</tspan></text>
+    </g>
+  </g>
+</svg>
